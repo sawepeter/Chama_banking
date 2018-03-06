@@ -1,0 +1,8 @@
+.btn-success{
+	background-color: rgba(16, 75, 216, 1);
+	border-color: transparent;
+}
+.btn-success:hover{
+	background-color: rgb(40, 43, 57);
+	border-color: transparent;
+}
